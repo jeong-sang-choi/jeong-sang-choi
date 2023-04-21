@@ -1,7 +1,7 @@
 
 <img align = right src = "https://github.com/jeong-sang-choi/jeong-sang-choi/blob/main/python_file.svg" width = 100>
 
-<h1 font-size:10>Hi, I`m JeongSangChoi <img src = "https://github.com/jeong-sang-choi/jeong-sang-choi/blob/main/jeongsang.jpg" height = 300 width = 400 align = center></h1>
+<h1 font-size:10>Hi, I`m JeongSangChoi <img src = "https://github.com/jeong-sang-choi/jeong-sang-choi/blob/main/jeongsang.jpg" height = 300 width = 400 align = left></h1>
 
 
 - 🔭 I’m currently working on ...
