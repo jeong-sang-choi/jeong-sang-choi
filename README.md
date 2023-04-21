@@ -1,4 +1,6 @@
-![jeongsang](https://user-images.githubusercontent.com/87243613/233631727-ab4f7ae7-76bf-4413-8a3f-541e0f529a3d.jpg)
+<h1>
+<img src="C:\Users\gg787\Desktop\jeongsang.jpg" width="200" height="400"/></h1>
+
 - 🔭 I’m currently working on ...
 No Company..
 - 🌱 I’m currently learning ...
