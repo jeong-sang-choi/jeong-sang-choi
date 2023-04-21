@@ -1,5 +1,5 @@
 <img align = "right" src = "C:\Users\gg787\Desktop\python_file.svg" width = "300"/>
-<h1>Hi, I`m JeongSangChoi <img src = "C:\Users\gg787\Desktop\jeongsang.jpg" height = "100"></h1>
+<h1>Hi, I`m JeongSangChoi <img src = "C:\Users\gg787\Desktop\jeongsang.jpg"></h1>
 
 - 🔭 I’m currently working on ...
 No Company..
