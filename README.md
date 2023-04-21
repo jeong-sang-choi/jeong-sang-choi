@@ -1,5 +1,4 @@
-<h1>
-<img src="C:\Users\gg787\Desktop\jeongsang.png" width="200" height="400"/></h1>
+<h1 font-size:16>Hi, I`m JeongSangChoi </h1>
 
 - 🔭 I’m currently working on ...
 No Company..
