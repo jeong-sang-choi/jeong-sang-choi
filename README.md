@@ -1,4 +1,4 @@
-<img aling = "right" src = "C:\Users\gg787\Desktop\python_file.svg width = "300"/>
+<!-- <img aling = "right" src = "C:\Users\gg787\Desktop\python_file.svg width = "300"/> -->
 <h1>Hi, I`m JeongSangChoi <img src = "C:\Users\gg787\Desktop\jeongsang.jpg" height = "180"></h1>
 
 - 🔭 I’m currently working on ...
