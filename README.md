@@ -1,5 +1,5 @@
 <h1>
-<img src="C:\Users\gg787\Desktop\jeongsang.jpg" width="200" height="400"/></h1>
+<img src="C:\Users\gg787\Desktop\jeongsang.png" width="200" height="400"/></h1>
 
 - 🔭 I’m currently working on ...
 No Company..
