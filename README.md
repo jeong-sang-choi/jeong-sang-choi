@@ -1,4 +1,4 @@
-
+![jeongsang](https://user-images.githubusercontent.com/87243613/233631727-ab4f7ae7-76bf-4413-8a3f-541e0f529a3d.jpg)
 
 - 🔭 I’m currently working on ...
 No Company..
