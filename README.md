@@ -1,4 +1,4 @@
-<h1 font-size:16>Hi, I`m JeongSangChoi </h1>
+<h1 font-size:12>Hi, I`m JeongSangChoi </h1>
 
 - 🔭 I’m currently working on ...
 No Company..
