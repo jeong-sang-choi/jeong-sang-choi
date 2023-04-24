@@ -52,7 +52,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center">
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong-sang-choi&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-sang-choi)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-sang-choi)](https://github.com/jeong-sang-choi/github-readme-stats)
 
 
 
