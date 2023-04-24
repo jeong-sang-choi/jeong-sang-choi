@@ -50,8 +50,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong-sang-choi&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong-sang-choi)](https://github.com/jeong-sang-choi/github-readme-stats)
   
 
 
