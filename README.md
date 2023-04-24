@@ -28,10 +28,10 @@ i am also Studying Machine Learning and AI in MS AI SCHOOL..
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 39 mins   ██████████████████▓░░░░░░   74.54 %
-JSON         1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-JavaScript   53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+JavaScript   ??  ██████████████████▓░░░░░░   74.54 %
+Python       ??  ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+React        ??  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Other        ??  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
